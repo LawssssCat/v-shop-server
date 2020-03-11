@@ -1,5 +1,7 @@
 server:
   port: 3001
+  servlet:
+    context-path: /api/private/v1
 
 spring:
   datasource:
