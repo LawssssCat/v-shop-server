@@ -23,7 +23,7 @@
 		<dependency><!-- 官网:http://shiro.apache.org/tutorial.html -->
 			<groupId>org.apache.shiro</groupId>
 			<artifactId>shiro-spring</artifactId>
-			<version>1.4.1</version>
+			<version>1.7.1</version>
 		</dependency>
 		<dependency><!-- Mybatis-plus --> <!-- MP核心库 2.0.8版本以上,CRUD不支持二级缓存 -->
 			<groupId>com.baomidou</groupId>
